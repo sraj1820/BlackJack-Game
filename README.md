@@ -5,10 +5,10 @@ Blackjack is a popular casino game played against the dealer. Whoever's cards ge
 ### Screenshots
 
 Main Screen:
-![](Blackjack_Main_Screen.png)
+![](/BlackJack%20Project/BlackJack_Main_Screen.png)
 
 Winner Determined:\
-![](Blackjack_Winner.png)
+![](/BlackJack%20Project/BlackJack_Winner.png)
 
 ### Technologies Used
 

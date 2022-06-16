@@ -16,8 +16,6 @@ This game was created using HTML,CSS,Javascript and Jquery.
 
 ### Get Started
 
-Click on the following link to launch the game:\
-[BlackJack Game](/index.html)
 
 The game will load automatically, giving the player two cards to start and the dealer one. Select hit to continue receiving cards or stand to end your turn and pass it on to the dealer. Selecting the restart button will begin a new game.
 

@@ -5,10 +5,10 @@ Blackjack is a popular casino game played against the dealer. Whoever's cards ge
 ### Screenshots
 
 Main Screen:
-![](/BlackJack%20Project/BlackJack_Main_Screen.png)
+![](./Card%20Images/Blackjack%20Main%20Screen.png)
 
 Winner Determined:\
-![](/BlackJack%20Project/BlackJack_Winner.png)
+![](./Card%20Images/Blackjack%20Winner%20Determined.png)
 
 ### Technologies Used
 
@@ -18,6 +18,8 @@ This game was created using HTML,CSS,Javascript and Jquery.
 
 
 The game will load automatically, giving the player two cards to start and the dealer one. Select hit to continue receiving cards or stand to end your turn and pass it on to the dealer. Selecting the restart button will begin a new game.
+
+Please click on the following [link](https://black-jack-game-htlcx0twk-sraj1820.vercel.app/) to get started
 
 ### Next Steps
 
